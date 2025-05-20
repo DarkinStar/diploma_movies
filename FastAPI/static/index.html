@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Movie Plot Search</title>
+</head>
+
+<body>
+    <h1>Movie Plot Search</h1>
+    <input type="text" id="query" placeholder="Enter movie plot">
+    <button onclick="search()">Search</button>
+
+    <h3>Top Results:</h3>
+    <ul id="results"></ul>
+
+    <h3 id="accuracy"></h3>
+
+    <script>
+        const API_KEY = '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';
+        const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
+
+        async function search() {
+            const query = document.getElementById('query').value;
+
+            // Clear old results
+            document.getElementById('results').innerHTML = '';
+            document.getElementById('accuracy').textContent = ''; // Hide old accuracy
+
+            // Call your FastAPI backend
+            const res = await fetch('http://localhost:8000/search', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ text: query })
+            });
+
+            const data = await res.json();
+            const resultsEl = document.getElementById('results');
+            const movieTitles = [];
+
+            data.results.forEach(movie => {
+                const li = document.createElement('li');
+                li.textContent = movie.title + ` (dist: ${movie.distance.toFixed(2)})`;
+                resultsEl.appendChild(li);
+                movieTitles.push(movie.title);
+            });
+
+            // Show loading while waiting for OpenRouter
+            document.getElementById('accuracy').textContent = 'Calculating accuracy...';
+
+            // Build prompts
+            const systemPrompt = {
+                role: "system",
+                content: `You are an evaluator assistant for a movie recommendation system. Your job is to evaluate how relevant and appropriate the recommended movies are for a user's search query.
+
+Use the following guidelines:
+- Focus on thematic and plot similarity.
+- Do not be overly strict — assume the recommendations are based on plot embeddings and may not be perfect.
+- Give the benefit of the doubt if the results are reasonably close in theme or subject matter.
+- Return a percentage score from 0% to 100% indicating how well the results match the query.
+- Do NOT include any explanation, just the number with a percent sign like: "78%".
+- If the movies all clearly relate to the query, even if not exact, that can still be 80%+.
+- If only 1 or 2 match decently, give 30–60%.
+- If none are even close, go below 30%.
+
+Keep your judgment balanced and fair. You are rating a recommendation system, not writing a review.`
+            };
+
+            const userPrompt = {
+                role: "user",
+                content: `Query: "${query}"\nResults: ${movieTitles.join(', ')}\nHow accurate are these recommendations?`
+            };
+
+            // Call OpenRouter
+            const openrouterRes = await fetch(API_URL, {
+                method: 'POST',
+                headers: {
+                    'Authorization': `Bearer ${API_KEY}`,
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    model: "openai/gpt-3.5-turbo",
+                    messages: [systemPrompt, userPrompt]
+                })
+            });
+
+            const openrouterData = await openrouterRes.json();
+            const accuracyText = openrouterData.choices[0].message.content;
+            document.getElementById('accuracy').textContent = `Accuracy: ${accuracyText}`;
+        }
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+1. download the dateset
+https://www.kaggle.com/datasets/gabrieltardochi/wikipedia-movie-plots-with-plot-summaries?resource=download
+2. Clean and Prepare the Dataset
+2.1. Load the Dataset
+2.2. Drop Useless Columns
+2.3. Remove Empty/Missing Plot Summaries
+2.4. Normalize Text
+2.5. Remove Duplicates
+2.6. Save Cleaned Dataset
+3. Setup & Run the Embedding Model
