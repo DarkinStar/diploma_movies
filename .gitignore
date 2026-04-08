@@ -1,0 +1,3 @@
+Add-Content .gitignore "`ndatasets/cleaned_movie_plots_v2.csv"
+Add-Content .gitignore "`nnotebooks/movie_metadata_2.pkl"
+Add-Content .gitignore "`nnotebooks/movie_embeddings_2.npy"
