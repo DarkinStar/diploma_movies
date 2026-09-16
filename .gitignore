@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Datasets: download the Kaggle dump and regenerate (see README). Only the
+# 394-query evaluation set is versioned so the reported metrics are reproducible.
+data/*
+!data/eval/
+data/eval/*
+!data/eval/test_set_394.csv
+
+# Generated retrieval artifacts and model weights
+artifacts/
+models/
+*.npy
+*.pkl
+*.safetensors
+*.faiss
+
+# Only the final 394-query evaluation runs are versioned
+results/archive/
+
+# Thesis documents, admin paperwork and other local files
+thesis/
+*.docx
+*.pdf
+~$*
