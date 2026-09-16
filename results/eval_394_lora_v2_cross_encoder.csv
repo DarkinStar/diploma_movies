@@ -1,0 +1,395 @@
+title,year,genre,query,query_type,top1_result,correct_rank,match_ratio,hit@1,hit@3,hit@5,hit@10,reciprocal_rank,similarity_score
+'Til We Meet Again,,,total strangers dan hardesty joan ames hong kong bar paradise cocktail shatter glasses ocean liner handcuffed,oracle,Three Strangers,10,1.0,0,0,0,1,0.1,0.7539448738098145
+13 Hours: The Secret Soldiers of Benghazi,2016.0,action,that movie based on the true story of the benghazi attack where soldiers defend the embassy,conversational,13 Hours: The Secret Soldiers of Benghazi,1,1.0,1,1,1,1,1.0,0.8168497085571289
+13 Hours: The Secret Soldiers of Benghazi,2016.0,action,american soldiers defend consulate benghazi attack libya true story,naturalistic,13 Hours: The Secret Soldiers of Benghazi,1,1.0,1,1,1,1,1.0,0.7302371263504028
+13 Hours: The Secret Soldiers of Benghazi,2016.0,action,2012 benghazi libya diplomatic compound cia annex private military contractors defend ambassador attack militants,oracle,The Ambassador,2,1.0,0,1,1,1,0.5,0.7442853450775146
+13 Hours: The Secret Soldiers of Benghazi,2016.0,action,soldiers defend an outpost against overwhelming enemy forces based on real events,vague,Outpost,not found,,0,0,0,0,0.0,0.0
+Accomplice,1946.0,crime,that old mystery movie where the detective tries to figure out which of the couple actually committed the murder,conversational,The Truth About Murder,not found,,0,0,0,0,0.0,0.0
+Accomplice,1946.0,crime,detective investigates murder suspects wife husband alibis,naturalistic,Wives Under Suspicion,not found,,0,0,0,0,0.0,0.0
+Accomplice,1946.0,crime,blonde woman hires attorney find amnesiac missing husband bank vice president disappearance investigation,oracle,P.J.,3,1.0,0,1,1,1,0.3333333333333333,0.6230194568634033
+Accomplice,1946.0,crime,everyone is a suspect and nobody's alibi quite adds up,vague,Suspect,not found,,0,0,0,0,0.0,0.0
+Aces and Eights,1936.0,western,that old western where the gunfighter gambler has to face off against the villain in a card game showdown,conversational,Gunfight at the O.K. Corral,not found,,0,0,0,0,0.0,0.0
+Aces and Eights,1936.0,western,gambler gunfighter frontier justice card game showdown,naturalistic,Showdown,10,1.0,0,0,0,1,0.1,0.6208758354187012
+Aces and Eights,1936.0,western,card sharp helps mexican family ranch threatened by swindlers cheats frontier,oracle,Frontier Outlaws,8,1.0,0,0,0,1,0.125,0.7801153659820557
+Aces and Eights,1936.0,western,a skilled man uses his wits and guns to bring justice to a lawless place,vague,Man with the Gun,not found,,0,0,0,0,0.0,0.0
+After the Sunset,2004.0,crime,that movie where the jewel thief retires to the bahamas but an FBI agent keeps trying to catch him doing one more job,conversational,Maroc 7,not found,,0,0,0,0,0.0,0.0
+After the Sunset,2004.0,crime,retired thief one last heist bahamas jewel FBI agent,naturalistic,Heist,not found,,0,0,0,0,0.0,0.0
+After the Sunset,2004.0,crime,master thief max burdett accomplice lola steal napoleon diamond retire paradise bahamas fbi agent lloyd one more heist,oracle,Heist,9,1.0,0,0,0,1,0.1111111111111111,0.7752271294593811
+After the Sunset,2004.0,crime,a thief who thought he was done gets pulled back into the game,vague,Thief,not found,,0,0,0,0,0.0,0.0
+Appaloosa,2008.0,western,that western where two hired guns try to clean up a town run by a corrupt rancher,conversational,Forty Guns,not found,,0,0,0,0,0.0,0.0
+Appaloosa,2008.0,western,two lawmen hired to bring order to town controlled by rancher,naturalistic,Lawman,not found,,0,0,0,0,0.0,0.0
+Appaloosa,2008.0,western,1882 appaloosa new mexico rancher bragg killed marshal virgil cole everett hitch hired restore order,oracle,Appaloosa,1,1.0,1,1,1,1,1.0,0.7648520469665527
+Appaloosa,2008.0,western,hired men try to bring justice to a lawless place,vague,Law Men,not found,,0,0,0,0,0.0,0.0
+Ashoka,2008.0,action,that shahrukh khan movie where he plays young ashoka the emperor before he became peaceful,conversational,Ashoka,1,1.0,1,1,1,1,1.0,0.6803727746009827
+Ashoka,2008.0,action,young ashoka warrior prince love war transformation buddhism,naturalistic,Ashoka Chakravarthy,8,0.909,0,0,0,1,0.125,0.6652098298072815
+Ashoka,2008.0,action,ashoka nsg commando chief prime minister security coimbatore airport terrorist ambush saves pm,oracle,Ashoka,1,1.0,1,1,1,1,1.0,0.7839432954788208
+Ashoka,2008.0,action,a fierce warrior is transformed by love and the horrors of war,vague,In Love and the War,not found,,0,0,0,0,0.0,0.0
+Attack of the Crab Monsters,1957.0,science fiction,that old sci-fi movie where the giant crabs eat people and absorb their intelligence and they get trapped on the island,conversational,Attack of the Crab Monsters,1,1.0,1,1,1,1,1.0,0.7927427291870117
+Attack of the Crab Monsters,1957.0,science fiction,giant mutant crabs trap scientists island absorb minds,naturalistic,Attack of the Crab Monsters,1,1.0,1,1,1,1,1.0,0.7643221020698547
+Attack of the Crab Monsters,1957.0,science fiction,scientists remote pacific island search missing expedition giant intelligent crabs absorb victims minds island shrinks,oracle,Octaman,9,1.0,0,0,0,1,0.1111111111111111,0.7725502848625183
+Attack of the Crab Monsters,1957.0,science fiction,giant creatures trap a group of people with no way to escape,vague,Monsters,not found,,0,0,0,0,0.0,0.0
+Black Butterfly,2013.0,romance,that thriller where a writer lets a stranger stay at his cabin and things get very dark and twisted,conversational,The Strangers,not found,,0,0,0,0,0.0,0.0
+Black Butterfly,2013.0,romance,troubled writer isolated cabin mysterious stranger creative obsession,naturalistic,1408,not found,,0,0,0,0,0.0,0.0
+Black Butterfly,2013.0,romance,pranks plus two students reena enters life of benny lost parents deepak lover aarathi,oracle,3,not found,,0,0,0,0,0.0,0.0
+Black Butterfly,2013.0,romance,an unexpected guest changes everything for a person living in isolation,vague,The Guest,not found,,0,0,0,0,0.0,0.0
+Black Narcissus,1947.0,thriller,that movie where the nuns go to this remote mountain place and one of them slowly loses her mind,conversational,Nuns on the Run,8,1.0,0,0,0,1,0.125,0.7522045373916626
+Black Narcissus,1947.0,thriller,nuns isolated himalayan monastery psychological breakdown temptation,naturalistic,Dukh Bhanjan Tera Naam,not found,,0,0,0,0,0.0,0.0
+Black Narcissus,1947.0,thriller,anglican nuns himalayas palace mopu darjeeling school hospital mr dean seduced madness sister clodagh sister ruth,oracle,Nepal Affair,not found,,0,0,0,0,0.0,0.0
+Black Narcissus,1947.0,thriller,isolation and temptation drive someone to the edge of madness,vague,Edge of Sanity,not found,,0,0,0,0,0.0,0.0
+Blink,1994.0,thriller,that thriller where the woman just got her sight back and thinks she saw a killer but nobody believes her,conversational,The Unseen,not found,,0,0,0,0,0.0,0.0
+Blink,1994.0,thriller,blind woman regains sight witnesses murder serial killer,naturalistic,Blind Woman's Curse,not found,,0,0,0,0,0.0,0.0
+Blink,1994.0,thriller,emma musician blind 20 years surgery restores vision flashes awakened noise neighbor murdered serial killer,oracle,Blind,8,1.0,0,0,0,1,0.125,0.782640814781189
+Blink,1994.0,thriller,someone sees something they shouldn't and nobody believes them,vague,Eyes Beyond Seeing,not found,,0,0,0,0,0.0,0.0
+Blues Brothers 2000,1998.0,comedy,that blues brothers sequel where they get the band back together again,conversational,Blues Brothers 2000,1,1.0,1,1,1,1,1.0,0.7963224053382874
+Blues Brothers 2000,1998.0,comedy,blues brothers reunite band raise money orphanage sequel,naturalistic,Blues Brothers 2000,1,1.0,1,1,1,1,1.0,0.7213330268859863
+Blues Brothers 2000,1998.0,comedy,elwood blues released prison jake dead reunites band orphanage mission,oracle,The Prison,3,1.0,0,1,1,1,0.3333333333333333,0.6241072416305542
+Blues Brothers 2000,1998.0,comedy,musicians go on a wild mission to put a band back together,vague,Frank,not found,,0,0,0,0,0.0,0.0
+Boom,2003.0,thriller,that bollywood thriller where celebrities are invited to an island and things go wrong,conversational,Bollywood/Hollywood,not found,,0,0,0,0,0.0,0.0
+Boom,2003.0,thriller,eccentric billionaire island celebrity guests mysterious deaths,naturalistic,Murder at Honeymoon Hotel,not found,,0,0,0,0,0.0,0.0
+Boom,2003.0,thriller,three top indian models fashion show diamond jewelers heist gangsters gun running,oracle,Gangster,10,1.0,0,0,0,1,0.1,0.786359965801239
+Boom,2003.0,thriller,wealthy people gathered in an isolated place face deadly consequences,vague,The Edge,not found,,0,0,0,0,0.0,0.0
+Branded to Kill,1967.0,crime,that japanese noir movie where the hitman misses a shot and suddenly everyone is trying to kill him,conversational,The Hitman,8,1.0,0,0,0,1,0.125,0.8083257079124451
+Branded to Kill,1967.0,crime,japanese hitman ranked third becomes target after botched job,naturalistic,Hitman,not found,,0,0,0,0,0.0,0.0
+Branded to Kill,1967.0,crime,goro hanada third ranked hitman tokyo mami kasuga botched hit butterfly woman becomes target number one killer,oracle,The Killer,5,1.0,0,0,1,1,0.2,0.7111207246780396
+Branded to Kill,1967.0,crime,a skilled killer makes one mistake and becomes the hunted,vague,The Hunter,not found,,0,0,0,0,0.0,0.0
+Bridesmaids,1989.0,drama,that movie where the maid of honor is jealous of the rich new friend of the bride,conversational,Made of Honor,not found,,0,0,0,0,0.0,0.0
+Bridesmaids,1989.0,drama,woman struggles maid of honor duties friendship rivalry,naturalistic,Love & Friendship,not found,,0,0,0,0,0.0,0.0
+Bridesmaids,1989.0,drama,four great friends reunite after 20 years estrangement innocent gang no more,oracle,The Reunion,not found,,0,0,0,0,0.0,0.0
+Bridesmaids,1989.0,drama,a friendship is tested when one person feels left behind,vague,Left Behind,not found,,0,0,0,0,0.0,0.0
+Child 44,2015.0,thriller,that movie set in soviet russia where the detective tries to catch a killer but the government won't admit murders happen,conversational,The Iron Curtain,not found,,0,0,0,0,0.0,0.0
+Child 44,2015.0,thriller,soviet detective investigates serial killer denied to exist by state,naturalistic,The State Counsellor,10,1.0,0,0,0,1,0.1,0.6032846570014954
+Child 44,2015.0,thriller,1933 leo demidov ukrainian holodomor orphan red army 1945 soviet mole hunter serial killer child murders state denies,oracle,Child 44,1,1.0,1,1,1,1,1.0,0.6709046959877014
+Child 44,2015.0,thriller,a man fights the system to uncover crimes the authorities want to hide,vague,The Undercover Man,not found,,0,0,0,0,0.0,0.0
+Comanche Territory,1950.0,western,that western where the guy tries to protect native american land from greedy settlers who want the silver,conversational,The Dude Goes West,not found,,0,0,0,0,0.0,0.0
+Comanche Territory,1950.0,western,frontiersman protects comanche silver mine treaty crooked settlers,naturalistic,Comanche,2,1.0,0,1,1,1,0.5,0.7538008689880371
+Comanche Territory,1950.0,western,silver found comanche territory government sends jim bowie negotiate treaty settlers plan raid saloon owner instigates,oracle,Comanche Territory,1,1.0,1,1,1,1,1.0,0.8156518936157227
+Comanche Territory,1950.0,western,an outsider stands between indigenous people and those who want to exploit them,vague,Maïna,not found,,0,0,0,0,0.0,0.0
+Confession,1937.0,drama,that old drama where the woman admits to killing someone to save her daughter from the truth about her past,conversational,Dolores Claiborne,not found,,0,0,0,0,0.0,0.0
+Confession,1937.0,drama,woman confesses to murder to protect daughter cabaret singer past,naturalistic,Dolores Claiborne,2,1.0,0,1,1,1,0.5,0.6697049736976624
+Confession,1937.0,drama,young music student meets renowned pianist who may be stalking her european city 1930,oracle,The Pianist,5,1.0,0,0,1,1,0.2,0.7419217824935913
+Confession,1937.0,drama,a parent sacrifices everything to protect their child from a dark secret,vague,Sacrifice,not found,,0,0,0,0,0.0,0.0
+Danger Signal,1945.0,crime,that old noir movie where the charming man keeps manipulating women and might actually be a killer,conversational,The Man Who Understood Women,not found,,0,0,0,0,0.0,0.0
+Danger Signal,1945.0,crime,charming con man manipulates women murder suspect,naturalistic,The Mystery Man,not found,,0,0,0,0,0.0,0.0
+Danger Signal,1945.0,crime,psychopathic artist steals dead woman's ring fakes suicide note charms women murder follows,oracle,The Psychopath,not found,,0,0,0,0,0.0,0.0
+Danger Signal,1945.0,crime,a smooth talking man hides a dangerous secret from the women he pursues,vague,A Woman's Secret,not found,,0,0,0,0,0.0,0.0
+Dangerous Mission,1954.0,thriller,that thriller where the woman who witnessed a murder hides in glacier national park and the hitman tracks her down,conversational,Gun Woman,not found,,0,0,0,0,0.0,0.0
+Dangerous Mission,1954.0,thriller,witness mob murder flees glacier national park hitman pursues,naturalistic,Face of a Fugitive,9,1.0,0,0,0,1,0.1111111111111111,0.7176297903060913
+Dangerous Mission,1954.0,thriller,young woman witnesses crime boss murder flees glacier national park federal agent and hitman pursue her,oracle,Gun Woman,8,1.0,0,0,0,1,0.125,0.7641434669494629
+Dangerous Mission,1954.0,thriller,louise graham witnesses crime boss murder glacier national park federal agent paul adams ruthless killer pursue mountain,oracle,Rocky Mountain Mystery,10,1.0,0,0,0,1,0.1,0.7457921504974365
+Dangerous Mission,1954.0,thriller,a witness on the run tries to hide from the people who want to silence her,vague,Witness,not found,,0,0,0,0,0.0,0.0
+Deccan Queen,1936.0,action,that old indian movie where the woman is basically a hero fighting crime and going on adventures,conversational,Lutaru Lalna,not found,,0,0,0,0,0.0,0.0
+Deccan Queen,1936.0,action,female adventurer fights crime historical india action,naturalistic,Arundhati,not found,,0,0,0,0,0.0,0.0
+Deccan Queen,1936.0,action,aruna father dies fraudulent trustees inheritance jail vengeance fearless deccan queen police pursue,oracle,Arundhati,2,1.0,0,1,1,1,0.5,0.775187611579895
+Deccan Queen,1936.0,action,a fearless woman takes on criminals in a historical setting,vague,Blanche Fury,not found,,0,0,0,0,0.0,0.0
+Demon Knight,1995.0,horror,that horror movie where a demon chases people trapped in a motel looking for some ancient relic,conversational,Motel Hell,6,1.0,0,0,0,1,0.16666666666666666,0.7127903699874878
+Demon Knight,1995.0,horror,demon hunts survivors trapped in building seeks ancient key,naturalistic,The Skeleton Key,3,1.0,0,1,1,1,0.3333333333333333,0.6051961183547974
+Demon Knight,1995.0,horror,ancient key hunted demon brayker survivors trapped roadside motel blood key collector,oracle,The Skeleton Key,7,1.0,0,0,0,1,0.14285714285714285,0.6531057357788086
+Demon Knight,1995.0,horror,a group of strangers are trapped together while something evil tries to get in,vague,The Strangers,not found,,0,0,0,0,0.0,0.0
+Django Unchained,2012.0,western,that Tarantino western where the slave teams up with a bounty hunter to rescue his wife,conversational,Hannie Caulder,8,1.0,0,0,0,1,0.125,0.7286827564239502
+Django Unchained,2012.0,western,freed slave bounty hunter rescues wife from plantation antebellum south,naturalistic,The Bounty Hunter,not found,,0,0,0,0,0.0,0.0
+Django Unchained,2012.0,western,1858 texas django shackled slave dr king schultz german bounty hunter brittle brothers broomhilda von shaft plantation,oracle,Django Unchained,1,1.0,1,1,1,1,1.0,0.764102041721344
+Django Unchained,2012.0,western,a man goes on a violent journey to save someone he loves from a cruel captor,vague,Terror Is a Man,not found,,0,0,0,0,0.0,0.0
+Double Confession,1950.0,crime,that crime movie where the husband goes to kill his wife but finds out someone already beat him to it,conversational,"The Cook, the Thief, His Wife & Her Lover",not found,,0,0,0,0,0.0,0.0
+Double Confession,1950.0,crime,man plans to kill wife discovers someone already did it,naturalistic,100 Ways to Murder Your Wife,not found,,0,0,0,0,0.0,0.0
+Double Confession,1950.0,crime,jim medway estranged wife isolated cottage charlie durham coming out wife dead blackmail murder seaside,oracle,Separate Lies,4,1.0,0,0,1,1,0.25,0.7326881289482117
+Double Confession,1950.0,crime,a would-be killer finds his plans overtaken by someone else's actions,vague,Intruder,not found,,0,0,0,0,0.0,0.0
+Dulaara,1994.0,thriller,that bollywood thriller where the good guy has to fight a really powerful corrupt villain to protect the people he loves,conversational,Ghulam,not found,,0,0,0,0,0.0,0.0
+Dulaara,1994.0,thriller,honest man fights corrupt powerful villain protects family,naturalistic,Over the Top,not found,,0,0,0,0,0.0,0.0
+Dulaara,1994.0,thriller,raja govinda stepson florence james target killer encounter police florence finds newborn makes son college,oracle,Baby,4,1.0,0,0,1,1,0.25,0.7234185934066772
+Dulaara,1994.0,thriller,an ordinary person stands up against corruption to protect what matters,vague,Corruption,not found,,0,0,0,0,0.0,0.0
+Ebb Tide,1932.0,drama,that old movie where the shipwrecked guys end up on an island with a strange pearl trader,conversational,Pearl of the South Pacific,not found,,0,0,0,0,0.0,0.0
+Ebb Tide,1932.0,drama,shipwrecked men desert island mysterious pearl trader,naturalistic,Pearl of the South Pacific,not found,,0,0,0,0,0.0,0.0
+Ebb Tide,1932.0,drama,sailor falls in love woman dockside former lover in prison conflicted,oracle,Sailor's Lady,6,1.0,0,0,0,1,0.16666666666666666,0.7175341844558716
+Ebb Tide,1932.0,drama,stranded men encounter a mysterious stranger with unclear motives,vague,Encounter with the Unknown,not found,,0,0,0,0,0.0,0.0
+Edge of Tomorrow,2014.0,action,that movie where Tom Cruise keeps dying and waking up on the same day to fight aliens,conversational,Alien,4,1.0,0,0,1,1,0.25,0.6551867127418518
+Edge of Tomorrow,2014.0,action,soldier relives same battle day over over against aliens,naturalistic,Soldier,8,1.0,0,0,0,1,0.125,0.626907229423523
+Edge of Tomorrow,2014.0,action,2020 mimics alien invasion udf major william cage no combat experience verdun relives battle day dies wakes loop,oracle,U.F.O.,8,1.0,0,0,0,1,0.125,0.8083230257034302
+Edge of Tomorrow,2014.0,action,a fighter keeps repeating the same battle until he gets it right,vague,Legend of a Fighter,not found,,0,0,0,0,0.0,0.0
+Ela Cheppanu,2003.0,romance,that telugu romance where the couple keeps misunderstanding each other and can't say how they feel directly,conversational,Sundarakanda,not found,,0,0,0,0,0.0,0.0
+Ela Cheppanu,2003.0,romance,young couple express love indirectly misunderstandings telugu,naturalistic,Iddarammayilatho,not found,,0,0,0,0,0.0,0.0
+Ela Cheppanu,2003.0,romance,sekhar iim business manager accidentally kills amar with car friend erases evidence guilt germany aarathi,oracle,Businessman,not found,,0,0,0,0,0.0,0.0
+Ela Cheppanu,2003.0,romance,two people in love who struggle to express their feelings clearly,vague,The Lovers,not found,,0,0,0,0,0.0,0.0
+Fidaa,2017.0,romance,that telugu movie where the guy from the city falls for a carefree village girl and she changes his life,conversational,Villagelo Vinayakudu,not found,,0,0,0,0,0.0,0.0
+Fidaa,2017.0,romance,city boy falls village girl telangana carefree spirit love,naturalistic,19,not found,,0,0,0,0,0.0,0.0
+Fidaa,2017.0,romance,varun nri texas raju's marriage banswada telangana meets bhanumathi shalini pandey vivacious village girl falls in love,oracle,R.S. Prasanna,not found,,0,0,0,0,0.0,0.0
+Fidaa,2017.0,romance,an unexpected romance between two people from very different worlds,vague,Two People,not found,,0,0,0,0,0.0,0.0
+Final Destination 3,2006.0,horror,that final destination movie with the roller coaster where death comes after the survivors,conversational,Final Destination 3,1,1.0,1,1,1,1,1.0,0.8306628465652466
+Final Destination 3,2006.0,horror,teens survive rollercoaster premonition death hunts them down,naturalistic,Rollercoaster,6,0.85,0,0,0,1,0.16666666666666666,0.6261649131774902
+Final Destination 3,2006.0,horror,wendy christensen high school amusement park premonition rollercoaster crash saves friends death hunts survivors,oracle,Rollercoaster,9,1.0,0,0,0,1,0.1111111111111111,0.7695146799087524
+Final Destination 3,2006.0,horror,people who cheat death are hunted down one by one,vague,Death Hunt,not found,,0,0,0,0,0.0,0.0
+Flirt,1995.0,comedy,that unusual movie where the same story about a romantic ultimatum plays out three times in different cities,conversational,A Different Story,not found,,0,0,0,0,0.0,0.0
+Flirt,1995.0,comedy,same story told three times different cities characters gender,naturalistic,A Tale of Two Cities,not found,,0,0,0,0,0.0,0.0
+Flirt,1995.0,comedy,new york berlin tokyo same romantic ultimatum scenario three different cities cultures genders,oracle,New York New York,9,1.0,0,0,0,1,0.1111111111111111,0.6177440881729126
+Flirt,1995.0,comedy,one situation plays out differently depending on who is involved,vague,A Different Story,not found,,0,0,0,0,0.0,0.0
+Forty Guns,1957.0,western,that old western where a powerful woman runs the whole town with her gang of riders,conversational,"Go West, Young Lady",not found,,0,0,0,0,0.0,0.0
+Forty Guns,1957.0,western,female rancher controls town gunfighter lawman arrives,naturalistic,Hannie Caulder,not found,,0,0,0,0,0.0,0.0
+Forty Guns,1957.0,western,griff bonnell reformed gunslinger attorney general arrests mail robber jessica drummond owns forty hired guns rules territory,oracle,Forty Guns,1,1.0,1,1,1,1,1.0,0.6462101936340332
+Forty Guns,1957.0,western,a tough woman dominates a town until a lawman challenges her,vague,The Woman of the Town,not found,,0,0,0,0,0.0,0.0
+Gangvaa,1984.0,action,that old hindi action movie where the local hero has to fight off dacoits terrorizing the village,conversational,Daaku Aur Jawan,10,1.0,0,0,0,1,0.1,0.7189509868621826
+Gangvaa,1984.0,action,village hero fights dacoit gang protect community rural india,naturalistic,Daaku Aur Jawan,7,1.0,0,0,0,1,0.14285714285714285,0.7056408524513245
+Gangvaa,1984.0,action,village work crew finds gold coins zamindar amrish puri confiscates gangvaa rajnikanth kills zamindar protects village,oracle,Zamindar (film),2,1.0,0,1,1,1,0.5,0.6754637956619263
+Gangvaa,1984.0,action,a community defender stands up against organized criminals threatening the village,vague,The Village,not found,,0,0,0,0,0.0,0.0
+Geethaanjali,2013.0,horror,that indian horror movie where the couple moves into a house and there's a ghost with a sad love story,conversational,Bhool Bhulaiyaa,7,1.0,0,0,0,1,0.14285714285714285,0.7313881516456604
+Geethaanjali,2013.0,horror,couple moves haunted house ghost romantic tragedy,naturalistic,A Haunted House,not found,,0,0,0,0,0.0,0.0
+Geethaanjali,2013.0,horror,anjali twin sister geetha committed suicide betrothed anoop mother paralysed arackal spirit haunts horrifying incidents,oracle,Geethaanjali,1,1.0,1,1,1,1,1.0,0.7759534120559692
+Geethaanjali,2013.0,horror,a spirit with unfinished business affects the lives of those who encounter it,vague,The Spirit,not found,,0,0,0,0,0.0,0.0
+Ghost in the Shell 2: Innocence,2004.0,science fiction,that animated sci-fi movie where the robot detective investigates android murders,conversational,Robotech: The Movie,not found,,0,0,0,0,0.0,0.0
+Ghost in the Shell 2: Innocence,2004.0,science fiction,cyborg detective investigates gynoid murders future japan,naturalistic,Cyborg She,not found,,0,0,0,0,0.0,0.0
+Ghost in the Shell 2: Innocence,2004.0,science fiction,2032 section 9 batou togusa gynoids sex robots malfunction deaths investigate hanka robotics locus solus,oracle,THX 1138,not found,,0,0,0,0,0.0,0.0
+Ghost in the Shell 2: Innocence,2004.0,science fiction,a detective in a futuristic world questions what makes something alive,vague,eXistenZ,not found,,0,0,0,0,0.0,0.0
+Hands of the Ripper,1971.0,horror,that horror movie where jack the ripper's daughter keeps killing people when she's triggered,conversational,Jack the Ripper,3,1.0,0,1,1,1,0.3333333333333333,0.7700155377388
+Hands of the Ripper,1971.0,horror,jack the ripper daughter possessed kills uncontrollably Victorian london,naturalistic,Jack the Ripper,2,1.0,0,1,1,1,0.5,0.7453730702400208
+Hands of the Ripper,1971.0,horror,infant daughter jack the ripper witnesses mother's murder fifteen years troubled young woman trance murders psychiatrist,oracle,Witness to Murder,2,1.0,0,1,1,1,0.5,0.7847286462783813
+Hands of the Ripper,1971.0,horror,a young woman cannot control the darkness she inherited,vague,Daughter of Darkness,not found,,0,0,0,0,0.0,0.0
+Hardware,1990.0,horror,that sci-fi horror movie where the girl gets a robot as a gift and it turns out it was built to kill,conversational,The Machine Girl,not found,,0,0,0,0,0.0,0.0
+Hardware,1990.0,horror,post-apocalyptic killer robot reassembles itself kills woman apartment,naturalistic,Death Machine,not found,,0,0,0,0,0.0,0.0
+Hardware,1990.0,horror,nomad scavenger irradiated wasteland discovers buried robot pieces sold sculptor girlfriend apartment killer,oracle,ARQ,9,1.0,0,0,0,1,0.1111111111111111,0.7687336206436157
+Hardware,1990.0,horror,a seemingly harmless object turns out to be a deadly threat,vague,Sudden Danger,not found,,0,0,0,0,0.0,0.0
+Hollywood Boulevard,1936.0,drama,that old movie about a faded silent film star who tries to make a comeback in the talkie era,conversational,Silent Movie,not found,,0,0,0,0,0.0,0.0
+Hollywood Boulevard,1936.0,drama,aging silent film actress struggles adapt hollywood sound era,naturalistic,Old Lady 31,not found,,0,0,0,0,0.0,0.0
+Hollywood Boulevard,1936.0,drama,has-been actor agrees to write memoirs for gossip magazine daughter asks him to stop for ex-wife's sake,oracle,The Daughter,not found,,0,0,0,0,0.0,0.0
+Hollywood Boulevard,1936.0,drama,a once famous person tries to reclaim their former glory,vague,The Man Who Reclaimed His Head,not found,,0,0,0,0,0.0,0.0
+Hollywood Ending,2002.0,comedy,that woody allen movie where he goes blind while directing but tries to hide it from everyone on set,conversational,Blindness,not found,,0,0,0,0,0.0,0.0
+Hollywood Ending,2002.0,comedy,woody allen director goes blind tries to finish film without anyone knowing,naturalistic,Blindness,10,1.0,0,0,0,1,0.1,0.631192684173584
+Hollywood Ending,2002.0,comedy,val waxman prestigious director commercials ex-wife ellie new boyfriend yves offers blockbuster goes blind hides it,oracle,Blind Dating,7,1.0,0,0,0,1,0.14285714285714285,0.7294026613235474
+Hollywood Ending,2002.0,comedy,a filmmaker tries to hide a major problem while finishing his work,vague,Interview,not found,,0,0,0,0,0.0,0.0
+Horton Hears a Who!,2008.0,animation,that animated movie where the elephant finds tiny people living on a piece of dust and tries to save them,conversational,Babar: King of the Elephants,not found,,0,0,0,0,0.0,0.0
+Horton Hears a Who!,2008.0,animation,elephant discovers tiny civilization on speck of dust protects it,naturalistic,Elephant Boy,not found,,0,0,0,0,0.0,0.0
+Horton Hears a Who!,2008.0,animation,horton elephant jungle nool dust speck tiny society microscopic creatures who-ville kangaroo disbelieves,oracle,The Bushbaby,2,1.0,0,1,1,1,0.5,0.6645305156707764
+Horton Hears a Who!,2008.0,animation,a kind creature protects a community that others refuse to believe exists,vague,Octaman,not found,,0,0,0,0,0.0,0.0
+Infernal Affairs II,2003.0,crime,that hong kong crime prequel where you see how the cop ended up undercover in the triads,conversational,They Came to Rob Hong Kong,6,1.0,0,0,0,1,0.16666666666666666,0.752660870552063
+Infernal Affairs II,2003.0,crime,hong kong police triad origins prequel undercover mole,naturalistic,They Came to Rob Hong Kong,7,1.0,0,0,0,1,0.14285714285714285,0.7136412262916565
+Infernal Affairs II,2003.0,crime,1991 hong kong police inspector wong chi-shing informant hon sam lau kin-ming mole royal hong kong police triads,oracle,The Man from Hong Kong,3,0.974,0,1,1,1,0.3333333333333333,0.712664008140564
+Infernal Affairs II,2003.0,crime,the backstory of how two men ended up living double lives on opposite sides of the law,vague,Man with Two Lives,not found,,0,0,0,0,0.0,0.0
+Insidious: Chapter 3,2015.0,horror,that insidious prequel where the psychic lady helps a girl being haunted before she met the lambert family,conversational,Insidious: Chapter 2,1,0.95,1,1,1,1,1.0,0.7450318336486816
+Insidious: Chapter 3,2015.0,horror,psychic medium helps girl haunted by demon before further adventures,naturalistic,Supernatural,10,1.0,0,0,0,1,0.1,0.6776429414749146
+Insidious: Chapter 3,2015.0,horror,retired demonologist elise rainier teenager quinn brenner spirit mother malevolent force man who cannot breathe,oracle,Insidious,not found,,0,0,0,0,0.0,0.0
+Insidious: Chapter 3,2015.0,horror,a young person is haunted by a dark presence and needs outside help,vague,Darkness,not found,,0,0,0,0,0.0,0.0
+Kabhi Haan Kabhi Naa,1994.0,romance,that shahrukh khan movie where he loves a girl who loves his best friend and he keeps trying to get her,conversational,"Shahrukh Bola ""Khoobsurat Hai Tu""",3,1.0,0,1,1,1,0.3333333333333333,0.7228312492370605
+Kabhi Haan Kabhi Naa,1994.0,romance,young musician loves girl who loves his friend tries win her,naturalistic,God Help the Girl,not found,,0,0,0,0,0.0,0.0
+Kabhi Haan Kabhi Naa,1994.0,romance,sunil shah rukh khan loves anna chris best friend music band sunil schemes sabotage lies consequences,oracle,Suneel Darshan,4,1.0,0,0,1,1,0.25,0.7742750644683838
+Kabhi Haan Kabhi Naa,1994.0,romance,a young man hopelessly pursues someone who loves another,vague,When a Man Loves,not found,,0,0,0,0,0.0,0.0
+Killer Punjabi,2016.0,action,that punjabi action movie where the hero fights to protect his family's honor against criminals,conversational,Jeet Hamaari,not found,,0,0,0,0,0.0,0.0
+Killer Punjabi,2016.0,action,punjabi action hero fights crime family honor,naturalistic,Killer Punjabi,1,1.0,1,1,1,1,1.0,0.7026023864746094
+Killer Punjabi,2016.0,action,contract killer rav never fails instructed kill woman he loves dilemma,oracle,I Hired a Contract Killer,not found,,0,0,0,0,0.0,0.0
+Killer Punjabi,2016.0,action,a man fights for his family's dignity against those who threaten them,vague,Men of Respect,not found,,0,0,0,0,0.0,0.0
+Koyelaanchal,2014.0,action,that indian action movie where the police officer takes on the coal mine mafia and corrupt politicians,conversational,Gangaajal,not found,,0,0,0,0,0.0,0.0
+Koyelaanchal,2014.0,action,coal mine mafia corrupt officials brave officer fights back india,naturalistic,Indian,not found,,0,0,0,0,0.0,0.0
+Koyelaanchal,2014.0,action,saryu bhan singh mafioso coal region brutal defiance law people authorities protests violence police officer,oracle,Sardaar Gabbar Singh,10,1.0,0,0,0,1,0.1,0.6286953091621399
+Koyelaanchal,2014.0,action,a brave officer fights powerful criminals who control a whole region,vague,Defendor,not found,,0,0,0,0,0.0,0.0
+Lady and the Tramp,1955.0,animation,that old disney movie where the fancy dog falls in love with the street dog and they share spaghetti,conversational,Inbavalli,9,1.0,0,0,0,1,0.1111111111111111,0.6635605096817017
+Lady and the Tramp,1955.0,animation,pampered dog falls in love with stray spaghetti dinner,naturalistic,Must Love Dogs,not found,,0,0,0,0,0.0,0.0
+Lady and the Tramp,1955.0,animation,cocker spaniel lady christmas morning couple befriends stray mongrel tramp tony's italian restaurant spaghetti,oracle,Lady and the Tramp,1,1.0,1,1,1,1,1.0,0.6532074213027954
+Lady and the Tramp,1955.0,animation,two very different individuals from different worlds fall in love,vague,Fall in Love Like a Star,not found,,0,0,0,0,0.0,0.0
+Lal Patthar,1971.0,romance,that old indian movie where the landlord has two wives and can't choose between them,conversational,The Second Wife Huchwidaeg,not found,,0,0,0,0,0.0,0.0
+Lal Patthar,1971.0,romance,zamindar two wives complex love triangle rural india,naturalistic,Zamindar,not found,,0,0,0,0,0.0,0.0
+Lal Patthar,1971.0,romance,raja kumar bahadur gyan shankar rai pursues saudamini madhuri refuses marry sumita discovers pregnant marriage guilt,oracle,Gharana,not found,,0,0,0,0,0.0,0.0
+Lal Patthar,1971.0,romance,a man torn between two loves causes pain for everyone around him,vague,Man in Love,not found,,0,0,0,0,0.0,0.0
+Living It Up,1954.0,comedy,that old comedy where the guy pretends to be dying from radiation and becomes famous,conversational,The Atomic Kid,2,1.0,0,1,1,1,0.5,0.6667582392692566
+Living It Up,1954.0,comedy,man fakes radiation poisoning becomes celebrity media circus,naturalistic,The Hoax,not found,,0,0,0,0,0.0,0.0
+Living It Up,1954.0,comedy,railroad worker new mexico fakes radiation poisoning new york newspaper reporter sent falls in love,oracle,Identity Unknown,not found,,0,0,0,0,0.0,0.0
+Living It Up,1954.0,comedy,a person pretends to be sick and gets more attention than they bargained for,vague,Health,not found,,0,0,0,0,0.0,0.0
+Look Who's Talking Too,1990.0,comedy,that sequel where the baby talks again and the parents are having marriage problems,conversational,Father of the Bride Part II,9,0.9,0,0,0,1,0.1111111111111111,0.6715902090072632
+Look Who's Talking Too,1990.0,comedy,couple relationship troubles baby voice inner thoughts sequel,naturalistic,Her,not found,,0,0,0,0,0.0,0.0
+Look Who's Talking Too,1990.0,comedy,mollie james married mikey potty training pregnant girl julie marriage troubles infidelity,oracle,Just Married,3,0.9,0,1,1,1,0.3333333333333333,0.6162481307983398
+Look Who's Talking Too,1990.0,comedy,a couple struggles to stay together while raising a young child,vague,Friends with Kids,not found,,0,0,0,0,0.0,0.0
+Meet the Robinsons,2007.0,animation,that animated movie where the kid goes to the future and meets a crazy family of inventors,conversational,Back to the Future,not found,,0,0,0,0,0.0,0.0
+Meet the Robinsons,2007.0,animation,boy inventor travels future meets eccentric family,naturalistic,Hugo,not found,,0,0,0,0,0.0,0.0
+Meet the Robinsons,2007.0,animation,lewis twelve year old inventor orphanage memory scanner science fair wilbur robinson time cop future family,oracle,D.A.R.Y.L.,2,1.0,0,1,1,1,0.5,0.7630845308303833
+Meet the Robinsons,2007.0,animation,a young person travels through time and discovers where they truly belong,vague,Somewhere in Time,not found,,0,0,0,0,0.0,0.0
+Mere Yaar Ki Shaadi Hai,2002.0,romance,that bollywood movie where the guy is in love with his best friend but helps her get married to someone else,conversational,Ullam Ketkumae,not found,,0,0,0,0,0.0,0.0
+Mere Yaar Ki Shaadi Hai,2002.0,romance,man helps best friend arrange wedding secretly loves her,naturalistic,My Best Friend's Wedding,not found,,0,0,0,0,0.0,0.0
+Mere Yaar Ki Shaadi Hai,2002.0,romance,sanjay mumbai childhood friend anjali getting married he loves her secretly helps arrange wedding uday chopra,oracle,Anjaam,not found,,0,0,0,0,0.0,0.0
+Mere Yaar Ki Shaadi Hai,2002.0,romance,someone sacrifices their own happiness for the one they love,vague,The One I Love,not found,,0,0,0,0,0.0,0.0
+Miss Grant Takes Richmond,1949.0,comedy,that old comedy where the innocent secretary has no idea she's working for a bookie operation,conversational,An Innocent Affair,not found,,0,0,0,0,0.0,0.0
+Miss Grant Takes Richmond,1949.0,comedy,naive secretary unknowingly works for gambling operation,naturalistic,Gambling Lady,not found,,0,0,0,0,0.0,0.0
+Miss Grant Takes Richmond,1949.0,comedy,worst secretarial student hired real estate firm front for bookmaking operation unwitting employee,oracle,Unbowed,not found,,0,0,0,0,0.0,0.0
+Miss Grant Takes Richmond,1949.0,comedy,an oblivious person stumbles into criminal activity without realizing it,vague,Disorganized Crime,not found,,0,0,0,0,0.0,0.0
+Monster House,2006.0,animation,that animated movie where the kids find out the creepy old neighbor's house is actually a living monster,conversational,Frankenweenie,2,1.0,0,1,1,1,0.5,0.7875978946685791
+Monster House,2006.0,animation,kids discover neighbor's house is alive and dangerous halloween,naturalistic,Halloween,4,1.0,0,0,1,1,0.25,0.7060426473617554
+Monster House,2006.0,animation,twelve year old dj spies elderly neighbor nebbercracker house is alive consumes objects halloween kids investigate,oracle,XX,7,1.0,0,0,0,1,0.14285714285714285,0.7557126879692078
+Monster House,2006.0,animation,children uncover a dark secret about a place everyone told them to avoid,vague,All the Invisible Children,not found,,0,0,0,0,0.0,0.0
+Mothra,1961.0,science fiction,that classic japanese monster movie where the giant moth is connected to these tiny twin girls who sing to it,conversational,Mothra,1,1.0,1,1,1,1,1.0,0.6970217823982239
+Mothra,1961.0,science fiction,giant moth creature awakens tiny twin fairies island japan,naturalistic,Mothra,1,1.0,1,1,1,1,1.0,0.735906720161438
+Mothra,1961.0,science fiction,expedition irradiated infant island primitive native culture entrepreneur exploits islanders tiny twin priestesses kidnapped giant moth,oracle,Mothra,1,1.0,1,1,1,1,1.0,0.7787352800369263
+Mothra,1961.0,science fiction,irradiated island expedition native culture tiny twin priestesses kidnapped giant moth deity destroys city,oracle,Mothra,1,1.0,1,1,1,1,1.0,0.771248459815979
+Mothra,1961.0,science fiction,a massive creature is awakened and only a special connection can calm it,vague,The Asphyx,not found,,0,0,0,0,0.0,0.0
+One Hour Photo,2002.0,thriller,that creepy movie where Robin Williams works at a photo shop and gets obsessed with a family,conversational,Boogeyman,4,1.0,0,0,1,1,0.25,0.763909637928009
+One Hour Photo,2002.0,thriller,photo lab technician becomes obsessed with customer family,naturalistic,Obsessed,5,1.0,0,0,1,1,0.2,0.6504659652709961
+One Hour Photo,2002.0,thriller,sy parrish photo technician yorkin family obsession secretly copies photos discovers husband affair confrontation,oracle,Obsessed,not found,,0,0,0,0,0.0,0.0
+One Hour Photo,2002.0,thriller,a lonely man becomes dangerously fixated on people he barely knows,vague,Solitary Man,not found,,0,0,0,0,0.0,0.0
+Original Sin,2001.0,thriller,that movie where Antonio Banderas marries a woman and finds out she's been lying about everything,conversational,Just Married,5,1.0,0,0,1,1,0.2,0.7134402990341187
+Original Sin,2001.0,thriller,man marries mail order bride discovers she is not who she claims,naturalistic,Mail Order Bride,not found,,0,0,0,0,0.0,0.0
+Original Sin,2001.0,thriller,late 19th century cuba luis vargas sends for american julia russell mail order bride deception murder garrote,oracle,Affair in Havana,4,1.0,0,0,1,1,0.25,0.655164361000061
+Original Sin,2001.0,thriller,a dangerous woman manipulates a man who trusted her completely,vague,This Woman is Dangerous,not found,,0,0,0,0,0.0,0.0
+Outrageous Fortune,1987.0,comedy,that comedy where two very different women find out they're dating the same guy who turns out to be a spy,conversational,Spy,not found,,0,0,0,0,0.0,0.0
+Outrageous Fortune,1987.0,comedy,two rival actresses discover shared boyfriend spy chase,naturalistic,Spy,not found,,0,0,0,0,0.0,0.0
+Outrageous Fortune,1987.0,comedy,refined actress lauren brash actress sandy both studying theatre professor both dating same man spy,oracle,P.S.,not found,,0,0,0,0,0.0,0.0
+Outrageous Fortune,1987.0,comedy,two unlikely women team up after being deceived by the same man,vague,The Other Woman,not found,,0,0,0,0,0.0,0.0
+Ratatouille,2007.0,animation,that pixar movie where the rat wants to cook and controls a chef by pulling his hair,conversational,Ratatouille,1,1.0,1,1,1,1,1.0,0.8055776357650757
+Ratatouille,2007.0,animation,rat dreams of becoming chef paris restaurant,naturalistic,Ratatouille,1,1.0,1,1,1,1,1.0,0.755888819694519
+Ratatouille,2007.0,animation,remy rat gifted taste smell inspired chef gusteau paris gusteau's restaurant linguini controls by hair,oracle,Ratatouille,1,1.0,1,1,1,1,1.0,0.7293156981468201
+Ratatouille,2007.0,animation,an unlikely talent helps someone achieve their dream in an unexpected way,vague,Unlikely Angel,not found,,0,0,0,0,0.0,0.0
+Re-encounter,2011.0,drama,that movie where two people who were in love when they were young meet again after many years,conversational,'Til We Meet Again,not found,,0,0,0,0,0.0,0.0
+Re-encounter,2011.0,drama,old lovers reunite after decades apart reflect on choices,naturalistic,Together Again,not found,,0,0,0,0,0.0,0.0
+Re-encounter,2011.0,drama,teenager hye-hwa pregnant boyfriend han-soo disappears exiled canada five years later chance encounter,oracle,Lovers Vanished,3,1.0,0,1,1,1,0.3333333333333333,0.6900327205657959
+Re-encounter,2011.0,drama,two people from the past meet again and wonder what could have been,vague,'Til We Meet Again,not found,,0,0,0,0,0.0,0.0
+Retro Puppet Master,1999.0,horror,that puppet master prequel where you see how the puppets got their life in ancient egypt,conversational,The Puppet Masters,8,1.0,0,0,0,1,0.125,0.7504687905311584
+Retro Puppet Master,1999.0,horror,puppet master origin story egypt ancient sorcerer puppets,naturalistic,The Puppet Masters,6,1.0,0,0,0,1,0.16666666666666666,0.7391456365585327
+Retro Puppet Master,1999.0,horror,1944 switzerland toulon puppets hiding blade finds cyclops head toulon tells story young woman cairo egypt ancient sorcerer,oracle,Puppet Master III: Toulon's Revenge,5,1.0,0,0,1,1,0.2,0.7517275810241699
+Retro Puppet Master,1999.0,horror,the origin of a dark power that brings small figures to life,vague,Darkness,not found,,0,0,0,0,0.0,0.0
+Ride Beyond Vengeance,1966.0,western,that western where the guy comes back after years away to find his wife moved on and he goes on a violent revenge mission,conversational,Revenge,not found,,0,0,0,0,0.0,0.0
+Ride Beyond Vengeance,1966.0,western,buffalo hunter returns home wife remarried seeks brutal revenge,naturalistic,Revenge,not found,,0,0,0,0,0.0,0.0
+Ride Beyond Vengeance,1966.0,western,census taker cold iron texas buffalo hunter jonas returns finds wife remarried was ambushed branded revenge,oracle,The Revengers,not found,,0,0,0,0,0.0,0.0
+Ride Beyond Vengeance,1966.0,western,a man returns home to find everything changed and seeks violent retribution,vague,The Return,not found,,0,0,0,0,0.0,0.0
+River Patrol,1948.0,crime,that old british crime movie where the river police go after smugglers on the waterway,conversational,River Patrol,1,1.0,1,1,1,1,1.0,0.795863687992096
+River Patrol,1948.0,crime,river police smugglers crime waterway britain,naturalistic,London River,2,1.0,0,1,1,1,0.5,0.7282873392105103
+River Patrol,1948.0,crime,two british police officers robby jean undercover husband wife thames smugglers ring night club evidence,oracle,Vivek Agnihotri,not found,,0,0,0,0,0.0,0.0
+River Patrol,1948.0,crime,officers patrol a waterway to stop illegal activity,vague,River Patrol,1,1.0,1,1,1,1,1.0,0.6807475090026855
+Run,1991.0,action,that action movie where the guy accidentally kills a mobster's son and has to run from the whole mob and corrupt cops,conversational,Slaughter,5,1.0,0,0,1,1,0.2,0.7119605541229248
+Run,1991.0,action,law student accidentally kills mob boss son flees pursued,naturalistic,Gotti,9,1.0,0,0,0,1,0.1111111111111111,0.6213151216506958
+Run,1991.0,action,boston law student charlie delivers porsche atlantic city accidentally kills mob boss son flees,oracle,Gone in 60 Seconds,4,1.0,0,0,1,1,0.25,0.7631374597549438
+Run,1991.0,action,an innocent person is chased by powerful people after a terrible accident,vague,The Chase,4,1.0,0,0,1,1,0.25,0.6883379220962524
+Samaantar,2009.0,drama,that indian movie about two completely different men whose lives turn out to be strangely connected,conversational,Judwaa 2,not found,,0,0,0,0,0.0,0.0
+Samaantar,2009.0,drama,parallel lives two men different paths same destiny,naturalistic,Men of Two Worlds,not found,,0,0,0,0,0.0,0.0
+Samaantar,2009.0,drama,keshav vaze businessman industrialist village separated college sweetheart shama earthquake siblings parallel lives pune,oracle,Icche,not found,,0,0,0,0,0.0,0.0
+Samaantar,2009.0,drama,two separate lives that seem unrelated turn out to be deeply connected,vague,Man with Two Lives,not found,,0,0,0,0,0.0,0.0
+Scenes from a Mall,1991.0,comedy,that movie where the couple goes to the mall on their anniversary and they both confess to cheating,conversational,Mallrats,3,1.0,0,1,1,1,0.3333333333333333,0.695102334022522
+Scenes from a Mall,1991.0,comedy,married couple shopping mall anniversary confess affairs,naturalistic,Anniversary,3,1.0,0,1,1,1,0.3333333333333333,0.6660441160202026
+Scenes from a Mall,1991.0,comedy,nick sports lawyer married deborah psychotherapist anniversary mall nick admits affair deborah also unfaithful,oracle,Side Out,not found,,0,0,0,0,0.0,0.0
+Scenes from a Mall,1991.0,comedy,a couple's perfect day falls apart when secrets come out,vague,Very Ordinary Couple,not found,,0,0,0,0,0.0,0.0
+Sometimes They Come Back... Again,1996.0,science fiction,that horror sci-fi movie where the guy goes back to his hometown and dark supernatural things from his past come after his daughter,conversational,The Return,2,1.0,0,1,1,1,0.5,0.696381688117981
+Sometimes They Come Back... Again,1996.0,science fiction,man returns hometown daughter threatened supernatural evil past,naturalistic,To the Devil a Daughter,not found,,0,0,0,0,0.0,0.0
+Sometimes They Come Back... Again,1996.0,science fiction,returning to the past brings old evil back into someone's life,vague,The Return,not found,,0,0,0,0,0.0,0.0
+Sometimes They Come Back... Again,,,psychologist jon porter mother mysterious death hometown glenrock daughter michelle thirty years sister lisa murdered devil cultists,oracle,Images,not found,,0,0,0,0,0.0,0.0
+Station West,1948.0,western,that western where the soldier goes undercover to find out who's been stealing gold shipments,conversational,Western Union,3,1.0,0,1,1,1,0.3333333333333333,0.7356624007225037
+Station West,1948.0,western,undercover army officer investigates gold theft western town,naturalistic,Special Investigator,3,1.0,0,1,1,1,0.3333333333333333,0.6921509504318237
+Station West,1948.0,western,military intelligence officer incognito investigates soldiers murdered guarding gold shipment saloon singer charlie,oracle,Special Investigator,7,1.0,0,0,0,1,0.14285714285714285,0.6706591844558716
+Station West,1948.0,western,a man works in secret to uncover criminals in a dangerous town,vague,Open Secret,not found,,0,0,0,0,0.0,0.0
+Sunday Dinner for a Soldier,1944.0,romance,that wartime movie where the poor family saves up to invite a soldier for sunday dinner and falls in love,conversational,Sunday Dinner for a Soldier,1,1.0,1,1,1,1,1.0,0.8406310081481934
+Sunday Dinner for a Soldier,1944.0,romance,poor family invites soldier dinner florida wartime romance,naturalistic,Sunday Dinner for a Soldier,1,1.0,1,1,1,1,1.0,0.8364671468734741
+Sunday Dinner for a Soldier,1944.0,romance,poor florida family saves money invite soldier dinner invitation never mailed love blossoms,oracle,Sunday Dinner for a Soldier,1,1.0,1,1,1,1,1.0,0.7530393600463867
+Sunday Dinner for a Soldier,1944.0,romance,a family's simple act of kindness leads to unexpected love during wartime,vague,In Love and War,not found,,0,0,0,0,0.0,0.0
+Swamp Women,1955.0,science fiction,that old movie where the women escape from prison and hide in the swamp looking for hidden diamonds,conversational,Woman in Hiding,2,1.0,0,1,1,1,0.5,0.8449306488037109
+Swamp Women,1955.0,science fiction,female convicts escape swamp diamonds hunt fugitives,naturalistic,Swamp Women,1,1.0,1,1,1,1,1.0,0.8582690358161926
+Swamp Women,1955.0,science fiction,three escaped female convicts undercover policewoman louisiana swamps search stolen diamonds authorities trail them,oracle,Swamp Women,1,1.0,1,1,1,1,1.0,0.7949206233024597
+Swamp Women,1955.0,science fiction,desperate women on the run hide in dangerous territory,vague,Woman on the Run,7,1.0,0,0,0,1,0.14285714285714285,0.6986625790596008
+TMNT,2007.0,animation,that animated ninja turtles movie where they fight the stone generals and an immortal warlord,conversational,Teenage Mutant Ninja Turtles III,5,1.0,0,0,1,1,0.2,0.812515139579773
+TMNT,2007.0,animation,teenage mutant ninja turtles reunite fight ancient warlord stone generals,naturalistic,Teenage Mutant Ninja Turtles,5,1.0,0,0,1,1,0.2,0.763424277305603
+TMNT,2007.0,animation,warlord yaotl immortal three thousand years stone generals thirteen monsters teenage mutant ninja turtles reunite,oracle,Teenage Mutant Ninja Turtles III,6,1.0,0,0,0,1,0.16666666666666666,0.7866905927658081
+TMNT,2007.0,animation,a team that drifted apart must reunite to face an ancient threat,vague,After Earth,not found,,0,0,0,0,0.0,0.0
+Terminator Salvation,2009.0,science fiction,that terminator movie set in the future where humans fight the machines,conversational,Terminator 3: Rise of the Machines,6,1.0,0,0,0,1,0.16666666666666666,0.7715820074081421
+Terminator Salvation,2009.0,science fiction,post-apocalyptic war against machines john connor,naturalistic,The Machine,not found,,0,0,0,0,0.0,0.0
+Terminator Salvation,2009.0,science fiction,2003 death row inmate marcus wright signs body cyberdyne 2018 john connor skynet resistance war machines,oracle,Death Machine,not found,,0,0,0,0,0.0,0.0
+Terminator Salvation,2009.0,science fiction,humans fighting robots in a destroyed future world,vague,Robot Overlords,not found,,0,0,0,0,0.0,0.0
+The Brain Eaters,1958.0,science fiction,that old sci-fi movie where parasites come out of the ground and take over people's bodies in a small town,conversational,Parasite,not found,,0,0,0,0,0.0,0.0
+The Brain Eaters,1958.0,science fiction,parasitic creatures from underground control small town residents,naturalistic,Parasite,not found,,0,0,0,0,0.0,0.0
+The Brain Eaters,1958.0,science fiction,riverdale illinois parasitic creatures underground control town residents senator investigates,oracle,FeardotCom,not found,,0,0,0,0,0.0,0.0
+The Brain Eaters,1958.0,science fiction,strange creatures from below take control of ordinary people,vague,Phantoms,not found,,0,0,0,0,0.0,0.0
+The Corruptor,1999.0,action,that movie where Chow Yun-Fat is a corrupt cop in chinatown and his new partner finds out,conversational,Detective Chinatown,2,1.0,0,1,1,1,0.5,0.8143595457077026
+The Corruptor,1999.0,action,nypd detective chinatown corruption gang loyalty partner,naturalistic,Detective Chinatown,4,1.0,0,0,1,1,0.25,0.7409934997558594
+The Corruptor,1999.0,action,nypd lieutenant nick chen chinatown triads fukienese dragons turf war informant tongs new partner danny wallace,oracle,City War,not found,,0,0,0,0,0.0,0.0
+The Corruptor,1999.0,action,a young officer discovers his mentor is not who he thought he was,vague,Jarhead,not found,,0,0,0,0,0.0,0.0
+The Crimson Candle,1934.0,crime,that old mystery movie where someone in a wealthy family gets murdered over an inheritance,conversational,The Eyes of Mystery,not found,,0,0,0,0,0.0,0.0
+The Crimson Candle,1934.0,crime,murder mystery inheritance wealthy family secrets,naturalistic,Family Plot,not found,,0,0,0,0,0.0,0.0
+The Crimson Candle,1934.0,crime,doctor attempts prove maid is murderer,oracle,The Crime Doctor,not found,,0,0,0,0,0.0,0.0
+The Crimson Candle,1934.0,crime,greed within a family leads to someone's death,vague,Greed,not found,,0,0,0,0,0.0,0.0
+The Cry Baby Killer,1958.0,crime,that early jack nicholson movie where the teenager thinks he killed someone and barricades himself with hostages,conversational,October 22,not found,,0,0,0,0,0.0,0.0
+The Cry Baby Killer,1958.0,crime,young man thinks he committed murder hides hostages jack nicholson debut,naturalistic,Murder in the First,not found,,0,0,0,0,0.0,0.0
+The Cry Baby Killer,1958.0,crime,seventeen year old juvenile delinquent jimmy wallace thinks committed manslaughter takes hostages police surround,oracle,Ambushed,not found,,0,0,0,0,0.0,0.0
+The Cry Baby Killer,1958.0,crime,a panicked young man makes a terrible situation worse by overreacting,vague,Panic,not found,,0,0,0,0,0.0,0.0
+The Family Secret,1924.0,drama,that old silent drama where the man finds out something shocking about who his family really is,conversational,The Family Secret,1,1.0,1,1,1,1,1.0,0.7364708781242371
+The Family Secret,1924.0,drama,man discovers dark secret about his family origin identity,naturalistic,The Family Secret,1,1.0,1,1,1,1,1.0,0.6120039224624634
+The Family Secret,1924.0,drama,wealthy new york family man discovers child is his daughter during burglary shot by grandfather reconciliation,oracle,The Family Secret,1,1.0,1,1,1,1,1.0,0.6370819807052612
+The Family Secret,1924.0,drama,uncovering the truth about one's past changes everything,vague,The Whole Truth,not found,,0,0,0,0,0.0,0.0
+The Flight of Dragons,1982.0,animation,that old animated movie where a regular guy gets transported to a fantasy world and has to fight an evil wizard,conversational,Conan the Destroyer,not found,,0,0,0,0,0.0,0.0
+The Flight of Dragons,1982.0,animation,modern man transported medieval fantasy world science vs magic dragons,naturalistic,He's a Dragon,10,1.0,0,0,0,1,0.1,0.7329183220863342
+The Flight of Dragons,1982.0,animation,green wizard carolinus magic fading world logic science last realm magic peter dickinson boston evil wizard ommadon,oracle,Bright,not found,,0,0,0,0,0.0,0.0
+The Flight of Dragons,1982.0,animation,a man from the real world must use logic to defeat magic in a fantasy realm,vague,Wizards,not found,,0,0,0,0,0.0,0.0
+The Hangman,1959.0,western,that western where the marshal comes to arrest a man but the whole town won't give him up,conversational,The Fighting Marshal,not found,,0,0,0,0,0.0,0.0
+The Hangman,1959.0,western,federal marshal hunts wanted man discovers town protects him,naturalistic,U.S. Marshals,not found,,0,0,0,0,0.0,0.0
+The Hangman,1959.0,western,marshal mac bovard hangman rounds outlaws needs john butterfield identified selah jennison refuses help,oracle,The Hangman,1,1.0,1,1,1,1,1.0,0.7315921783447266
+The Hangman,1959.0,western,a lawman questions his mission when he sees how much good the wanted man has done,vague,Lawman,not found,,0,0,0,0,0.0,0.0
+The Hawk's Nest,1928.0,crime,that old silent crime movie about a gang operating around the harbor and a robbery mystery,conversational,On the Waterfront,not found,,0,0,0,0,0.0,0.0
+The Hawk's Nest,1928.0,crime,waterfront crime gang robbery mystery harbor,naturalistic,On the Waterfront,not found,,0,0,0,0,0.0,0.0
+The Hawk's Nest,1928.0,crime,speakeasy bootleggers quarrel over dancer political assassination plot harbor,oracle,Under the Gun,not found,,0,0,0,0,0.0,0.0
+The Hawk's Nest,1928.0,crime,criminals operate in the shadows of a port city,vague,Port of New York,not found,,0,0,0,0,0.0,0.0
+The Little Drummer Girl,1984.0,thriller,that spy thriller where the actress gets recruited by Israeli intelligence to go undercover with Palestinians,conversational,Spy,not found,,0,0,0,0,0.0,0.0
+The Little Drummer Girl,1984.0,thriller,actress recruited mossad operation infiltrate Palestinian network,naturalistic,Profile,not found,,0,0,0,0,0.0,0.0
+The Little Drummer Girl,1984.0,thriller,mossad flushes PLO bomber khalil kidnaps brother charlie american anti-zionist actress recruited infiltrate,oracle,Unlocked,not found,,0,0,0,0,0.0,0.0
+The Little Drummer Girl,1984.0,thriller,a woman is drawn into a dangerous world of espionage and deception,vague,Spy,not found,,0,0,0,0,0.0,0.0
+The Lonely Man,1957.0,western,that western where the old gunfighter tries to reconnect with his son who hates him,conversational,Outlaw's Son,not found,,0,0,0,0,0.0,0.0
+The Lonely Man,1957.0,western,retired gunfighter reconnects estranged son faces past enemies,naturalistic,Gunfighters,not found,,0,0,0,0,0.0,0.0
+The Lonely Man,1957.0,western,riley wade hates gunfighter father jacob deserted mother suicide jacob rides reconcile king fisher holds grudge,oracle,Antwone Fisher,6,1.0,0,0,0,1,0.16666666666666666,0.7928826808929443
+The Lonely Man,1957.0,western,a man trying to leave violence behind must face it one last time,vague,One Man's Way,not found,,0,0,0,0,0.0,0.0
+The Lost World: Jurassic Park,1997.0,science fiction,that jurassic park sequel where the dinosaurs get to the mainland,conversational,Jurassic Park III,2,1.0,0,1,1,1,0.5,0.7972754836082458
+The Lost World: Jurassic Park,1997.0,science fiction,dinosaurs escape island chaos sequel jurassic park,naturalistic,Jurassic Park III,3,1.0,0,1,1,1,0.3333333333333333,0.7915248870849609
+The Lost World: Jurassic Park,1997.0,science fiction,isla sorna second jurassic park island ingen peter ludlow malcolm team rescue dinosaurs mainland san diego,oracle,Jurassic Park,7,1.0,0,0,0,1,0.14285714285714285,0.7773502469062805
+The Lost World: Jurassic Park,1997.0,science fiction,dangerous creatures escape and cause chaos in a city,vague,Chaos,not found,,0,0,0,0,0.0,0.0
+The Masque of the Red Death,1964.0,horror,that old horror movie where the evil prince holds a party while everyone outside is dying from the plague,conversational,Dracula: The Dark Prince,8,1.0,0,0,0,1,0.125,0.7322911024093628
+The Masque of the Red Death,1964.0,horror,medieval prince worships devil while plague kills peasants,naturalistic,Nostradamus,not found,,0,0,0,0,0.0,0.0
+The Masque of the Red Death,1964.0,horror,satanic prince prospero medieval italy plague villagers masked ball death red cloaked figure arrives,oracle,The Masque of the Red Death,1,1.0,1,1,1,1,1.0,0.8028163909912109
+The Masque of the Red Death,1964.0,horror,a powerful man thinks he is safe from death while all around him suffer,vague,The Man,not found,,0,0,0,0,0.0,0.0
+The Matrix,1999.0,science fiction,that movie where the guy takes a pill and finds out the world isn't real,conversational,Nothing,not found,,0,0,0,0,0.0,0.0
+The Matrix,1999.0,science fiction,programmer discovers reality is a simulation fights machines,naturalistic,eXistenZ,not found,,0,0,0,0,0.0,0.0
+The Matrix,1999.0,science fiction,computer programmer neo hacker discovers reality is simulation agents morpheus trinity rebels machines,oracle,Hackers,not found,,0,0,0,0,0.0,0.0
+The Matrix,1999.0,science fiction,a man learns the truth about the world he lives in,vague,True Story,not found,,0,0,0,0,0.0,0.0
+The Phobos,2010.0,horror,that horror movie where the astronauts on a mars mission start experiencing terrifying psychological breakdowns,conversational,Mission to Mars,not found,,0,0,0,0,0.0,0.0
+The Phobos,2010.0,horror,astronauts mars mission psychological horror isolation,naturalistic,Mission to Mars,not found,,0,0,0,0,0.0,0.0
+The Phobos,2010.0,horror,group young people club phobos bomb shelter construction doors automatically closed trapped cell phones no signal,oracle,The Phobos,1,1.0,1,1,1,1,1.0,0.6796128749847412
+The Phobos,2010.0,horror,people isolated in space start to lose their grip on reality,vague,Lost In Space,not found,,0,0,0,0,0.0,0.0
+They Died with Their Boots On,1941.0,western,that old movie about custer's last stand where he fights against the native americans,conversational,Custer of the West,not found,,0,0,0,0,0.0,0.0
+They Died with Their Boots On,1941.0,western,george custer biography battle little bighorn native americans,naturalistic,Custer of the West,not found,,0,0,0,0,0.0,0.0
+They Died with Their Boots On,1941.0,western,george armstrong custer west point troublemaker civil war little bighorn last stand native americans,oracle,Custer of the West,7,1.0,0,0,0,1,0.14285714285714285,0.7825431227684021
+They Died with Their Boots On,1941.0,western,a military leader makes a final heroic but doomed stand,vague,Lost Command,not found,,0,0,0,0,0.0,0.0
+This Land Is Mine,1943.0,drama,that world war two movie where the cowardly teacher finally stands up to the nazis,conversational,It Happened Here,not found,,0,0,0,0,0.0,0.0
+This Land Is Mine,1943.0,drama,timid schoolteacher finds courage nazi occupied france world war two,naturalistic,Hitler's Children,not found,,0,0,0,0,0.0,0.0
+This Land Is Mine,1943.0,drama,meek schoolmaster occupied france secretly loves fellow teacher finds courage resist nazi collaboration,oracle,This Above All,not found,,0,0,0,0,0.0,0.0
+This Land Is Mine,1943.0,drama,a quiet man finds his courage in the face of oppression,vague,The Quiet American,not found,,0,0,0,0,0.0,0.0
+'Til We Meet Again,1940.0,drama,that old romance where the dying woman falls for a convict on a ship and they fall in love knowing she's going to die,conversational,The Sin Ship,not found,,0,0,0,0,0.0,0.0
+'Til We Meet Again,1940.0,drama,terminally ill woman criminal romance ocean liner final voyage,naturalistic,The Last Voyage,not found,,0,0,0,0,0.0,0.0
+'Til We Meet Again,1940.0,drama,two people find love knowing their time together is limited,vague,Two People,not found,,0,0,0,0,0.0,0.0
+Together Again,1944.0,romance,that old movie where the widow mayor meets a sculptor who was hired to make a statue of her dead husband,conversational,Together Again,1,1.0,1,1,1,1,1.0,0.684826672077179
+Together Again,1944.0,romance,widow mayor falls for sculptor sent to make statue late husband,naturalistic,Her Husband's Friend,3,1.0,0,1,1,1,0.3333333333333333,0.6377328634262085
+Together Again,1944.0,romance,widow mayor vermont father-in-law worries health hires sculptor make statue deceased husband falls in love,oracle,Love Happens,2,1.0,0,1,1,1,0.5,0.6361887454986572
+Together Again,1944.0,romance,a woman who swore off love finds herself falling again unexpectedly,vague,Then She Was Gone,not found,,0,0,0,0,0.0,0.0
+Town & Country,2001.0,comedy,that comedy where the rich couple starts cheating and everything falls apart,conversational,The Cheaters,not found,,0,0,0,0,0.0,0.0
+Town & Country,2001.0,comedy,wealthy married couple affairs lies unravel friendships,naturalistic,The Rich Man's Wife,not found,,0,0,0,0,0.0,0.0
+Town & Country,2001.0,comedy,prosperous architect porter 25 years marriage affair cellist alex friends marriage troubles infidelity chaos,oracle,45 Years,not found,,0,0,0,0,0.0,0.0
+Town & Country,2001.0,comedy,comfortable lives of wealthy people collapse due to infidelity,vague,Rich and Strange,not found,,0,0,0,0,0.0,0.0
+V for Vendetta,2006.0,thriller,that movie where the guy with the guy fawkes mask blows up buildings to fight the government,conversational,Black Mask,not found,,0,0,0,0,0.0,0.0
+V for Vendetta,2006.0,thriller,masked anarchist fights totalitarian government future britain,naturalistic,Black Mask,not found,,0,0,0,0,0.0,0.0
+V for Vendetta,2006.0,thriller,2027 britain norsefire fascist police state v masked anarchist blows up buildings rescues evey hammond chancellor sutler,oracle,Siege,not found,,0,0,0,0,0.0,0.0
+V for Vendetta,2006.0,thriller,a mysterious rebel fights against an oppressive government,vague,J Revolusi,not found,,0,0,0,0,0.0,0.0
+Veera Sivaji,2016.0,action,that tamil action movie where the guy crosses borders to avenge his sister and take down the people who killed her,conversational,Sandakozhi,not found,,0,0,0,0,0.0,0.0
+Veera Sivaji,2016.0,action,man hunts sister's killer across borders action revenge south india,naturalistic,Madhyanam Hathya,not found,,0,0,0,0,0.0,0.0
+Veera Sivaji,2016.0,action,shivaji taxi driver niece surgery money entangled web of deceit,oracle,Shibaji,2,1.0,0,1,1,1,0.5,0.8022502064704895
+Veera Sivaji,2016.0,action,a man crosses boundaries driven by the need to avenge a family member,vague,The Revengers,not found,,0,0,0,0,0.0,0.0
+Wabbit Twouble,1941.0,animation,that old looney tunes cartoon where bugs bunny drives elmer fudd crazy while he's trying to camp,conversational,Bugs Bunny Rides Again,2,1.0,0,1,1,1,0.5,0.7939132452011108
+Wabbit Twouble,1941.0,animation,bugs bunny torments elmer fudd national park camping,naturalistic,Bugs Bunny Rides Again,not found,,0,0,0,0,0.0,0.0
+Wabbit Twouble,1941.0,animation,elmer fudd drives to jellostone national park rest relaxation bugs bunny disrupts campsite,oracle,Bugs Bunny Rides Again,4,1.0,0,0,1,1,0.25,0.8048839569091797
+Wabbit Twouble,1941.0,animation,a clever creature makes life miserable for someone who thinks they're in charge,vague,A Bug's Life,not found,,0,0,0,0,0.0,0.0
+Westworld,1973.0,science fiction,that old movie where the cowboys in a theme park are actually robots that go haywire,conversational,The Cowboys,5,1.0,0,0,1,1,0.2,0.6596927642822266
+Westworld,1973.0,science fiction,amusement park robots malfunction kill guests western theme,naturalistic,Westworld,1,1.0,1,1,1,1,1.0,0.676811933517456
+Westworld,1973.0,science fiction,delos adult amusement park three themed worlds androids westworld medievalworld romanworld malfunction kill guests,oracle,Westworld,1,1.0,1,1,1,1,1.0,0.8316305875778198
+Westworld,1973.0,science fiction,artificial beings in a controlled environment turn on their creators,vague,The Creation of the Humanoids,not found,,0,0,0,0,0.0,0.0
+What Every Woman Learns,1919.0,drama,that old silent movie about what a young woman is supposed to learn about life and marriage,conversational,What Every Woman Learns,1,1.0,1,1,1,1,1.0,0.7069520950317383
+What Every Woman Learns,1919.0,drama,young woman social lessons marriage society expectations silent film,naturalistic,Social Briars,not found,,0,0,0,0,0.0,0.0
+What Every Woman Learns,1919.0,drama,married woman visits another man who loves her husband confrontation leads to death accused of murder,oracle,Somebody Killed Her Husband,not found,,0,0,0,0,0.0,0.0
+What Every Woman Learns,1919.0,drama,a woman navigates what society expects of her,vague,The Women,not found,,0,0,0,0,0.0,0.0
+Wild in the Country,1961.0,comedy,that elvis movie where he plays a troubled guy who turns out to have a talent for writing,conversational,Elvis Gratton,not found,,0,0,0,0,0.0,0.0
+Wild in the Country,1961.0,comedy,troubled young man discovers writing talent elvis presley,naturalistic,Elvis Meets Nixon,not found,,0,0,0,0,0.0,0.0
+Wild in the Country,1961.0,comedy,glenn tyler probation small town uncle psychological counselling irene sperry discovers writing talent literary gift,oracle,Conviction,not found,,0,0,0,0,0.0,0.0
+Wild in the Country,1961.0,comedy,a young man from a difficult background discovers an unexpected gift,vague,Adam,not found,,0,0,0,0,0.0,0.0
+Wolf Creek 2,2014.0,horror,that australian horror sequel where the crazy killer in the outback goes after more tourists,conversational,"Outback, The !The Outback",7,1.0,0,0,0,1,0.14285714285714285,0.7605220675468445
+Wolf Creek 2,2014.0,horror,australian outback serial killer hunts backpackers tourists,naturalistic,Tourist Trap,not found,,0,0,0,0,0.0,0.0
+Wolf Creek 2,2014.0,horror,north western australia pig hunter mick taylor highway patrol officers british backpackers tourists outback murder,oracle,Killing Ground,not found,,0,0,0,0,0.0,0.0
+Wolf Creek 2,2014.0,horror,a ruthless killer hunts victims in a remote wilderness,vague,Lure of the Wilderness,not found,,0,0,0,0,0.0,0.0
+Ye Maaya Chesave,2010.0,romance,that telugu movie where a hindu boy falls for a christian girl and their families are totally against it,conversational,Naku Pellam Kavali,not found,,0,0,0,0,0.0,0.0
+Ye Maaya Chesave,2010.0,romance,hindu boy christian girl forbidden romance family opposition,naturalistic,Adhithan Kanavu,not found,,0,0,0,0,0.0,0.0
+Ye Maaya Chesave,2010.0,romance,karthik filmmaker kerala christian family conservative jessie ground floor upstairs karthik pursues jessie family disapproval,oracle,"Karthik Kumar, Poongkothai Chandrahasan",not found,,0,0,0,0,0.0,0.0
+Ye Maaya Chesave,2010.0,romance,a love story torn apart by family and religious differences,vague,Love Story,not found,,0,0,0,0,0.0,0.0
+You for Me,1952.0,romance,that old romance where the rich hospital patient tries to win over the nurse who is already engaged,conversational,The Rich Are Always with Us,10,1.0,0,0,0,1,0.1,0.6877238750457764
+You for Me,1952.0,romance,millionaire patient falls for nurse hospital comedy romance,naturalistic,A Millionaire for Christy,7,1.0,0,0,0,1,0.14285714285714285,0.6539517045021057
+You for Me,1952.0,romance,nurse katie must choose between wealthy irresponsible sportsman tony and handsome doctor jeff ex-wife complicates,oracle,The Choice,8,1.0,0,0,0,1,0.125,0.7282663583755493
+You for Me,1952.0,romance,a wealthy man pursues a woman who is not interested in his money,vague,Woman Chases Man,not found,,0,0,0,0,0.0,0.0
